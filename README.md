@@ -1,6 +1,13 @@
 # Harvest_Produce
 Website for Harvest Produce, Inc.
 
+**For anyone to use: [HideMenu](/HideMenu)**
+
+![hide-menu](ReadMeMedia/hide-menu.gif)
+
+
+<hr>
+
 ## Updated Look
 
 | *New:* | *Old:* |
