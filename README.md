@@ -1,7 +1,7 @@
 # Harvest_Produce
 Website for Harvest Produce, Inc.
 
-**For anyone to use: [HideMenu](/HideMenu)**
+**A nice little menu with a hideaway feature w/out JS: [HideMenu](/HideMenu)**
 
 ![hide-menu](ReadMeMedia/hide-menu.gif)
 
